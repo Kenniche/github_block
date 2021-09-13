@@ -1,0 +1,49 @@
+#container{
+	background-color:whitesmoke;
+	width:800px;
+	border-top: solid;
+
+	/*overflow: hidden;
+	height: auto;*/
+}
+
+h1{
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:darkslategray;
+    font-size: 40px;
+	text-align: center;
+}
+
+#section1{
+    display: flex;
+    justify-content: space-between;
+    background-color: lightblue;
+    margin: 20px;
+    padding: 20px;
+}
+
+#section2{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: pink;
+    margin: 20px;
+    padding: 20px;
+}
+
+#section3{
+	display: flex;
+    justify-content: space-between;
+    background-color:white;
+    margin: 20px;
+    padding: 20px;
+}
+
+p{
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:darkslategray;
+	text-align: center;
+}
+
+/* Code by @Kenniche*/
+
+/*width="180" height="180"*/
