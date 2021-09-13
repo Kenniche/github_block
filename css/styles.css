@@ -38,6 +38,10 @@ h1{
     padding: 20px;
 }
 
+img.newSize{
+    height: 180px;
+}
+
 p{
 	font-family: Verdana, Geneva, Tahoma, sans-serif;
     color:darkslategray;
